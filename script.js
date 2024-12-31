@@ -4,12 +4,12 @@ function showAlert() {
 }
 
 function showmsg() {
-    window.open("p2.html", "self");
+    window.open("p2.html", 'self');
 
 }
 
 function backhome() {
-    window.open("index.html", "self");
+    window.open("index.html", 'self');
 
 }
 
