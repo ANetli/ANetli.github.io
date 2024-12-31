@@ -5,6 +5,6 @@ function showAlert() {
 
 function showmsg() {
     //alert("Do you Want to learn OSI Models in detail.");
-    window.open('_p2.html');
+    window.open('p2.html');
 
 }
