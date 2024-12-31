@@ -9,7 +9,7 @@ function showmsg() {
 }
 
 function backhome() {
-    window.open("index.html");
+    page.open("index.html");
 
 }
 
