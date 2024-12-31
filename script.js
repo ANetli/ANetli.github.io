@@ -8,5 +8,9 @@ function showmsg() {
 
 }
 
-    //  alert("Do you Want to learn OSI Models in detail.");
+function backhome() {
+    window.open("index.html");
+
+}
+
 
