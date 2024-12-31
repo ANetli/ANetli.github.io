@@ -2,3 +2,7 @@
 function showAlert() {
     alert("Hello! You clicked the button.");
 }
+
+function showmsg() {
+    alert("Do you Want to learn OSI Models in detail.");
+}
