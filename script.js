@@ -4,7 +4,9 @@ function showAlert() {
 }
 
 function showmsg() {
-    //alert("Do you Want to learn OSI Models in detail.");
     window.open("p2.html");
 
 }
+
+    //  alert("Do you Want to learn OSI Models in detail.");
+
