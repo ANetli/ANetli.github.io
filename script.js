@@ -4,7 +4,7 @@ function showAlert() {
 }
 
 function showmsg() {
-    window.open("p2.html");
+    page.open("p2.html");
 
 }
 
