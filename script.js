@@ -1,6 +1,6 @@
 // Function to show an alert when the button is clicked
 function showAlert() {
-    alert("Hello! You clicked the button.");
+    alert("You are now started first step to learn Networking basics well done.");
 }
 
 function showmsg() {
