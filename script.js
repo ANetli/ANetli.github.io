@@ -30,5 +30,8 @@ function backhome() {
     window.open("index.html", '_self');
 
 }
+function KU_INDEX() {
+    window.open("KU_INDEX.html", '_self');
 
+}
 
