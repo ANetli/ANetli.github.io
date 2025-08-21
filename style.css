@@ -21,7 +21,7 @@
 }
 
 .scrollingDiv{
-    height:120px;
+    height:80px;
     overflow:scroll;
    overflow-x:hidden; 
  }
@@ -93,6 +93,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
