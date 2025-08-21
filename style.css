@@ -18,13 +18,30 @@
     font-weight: bold;
     left: -1px;
     padding: 70px 70px 70px;
-}
-
-.scrollingDiv{
     height:80px;
     overflow:scroll;
    overflow-x:hidden; 
+    weight:80px;
+}
+
+.headerclass{
+        weight:80px;
+        height:80px;
+
+
  }
+
+
+.scrollingDiv{   
+    background-color: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px 0 4px 0;
+    color: #3B3C3E;
+    font-size: 12px;
+    font-weight: bold;
+    left: -1px;
+    padding: 70px 70px 70px;
+}
 
 
 
@@ -93,6 +110,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
