@@ -6,7 +6,7 @@
 }
 
 
-div.scrollingDiv {
+div:scrollingDiv {
             width: 300px;
             height: 150px;
             overflow: scroll;
@@ -76,4 +76,5 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
