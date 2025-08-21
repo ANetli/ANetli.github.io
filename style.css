@@ -12,6 +12,7 @@ div:scrollingDiv {
             overflow: scroll;
             border: 1px solid #ccc;
             padding: 10px;
+            
         }
 
 
@@ -76,5 +77,6 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
