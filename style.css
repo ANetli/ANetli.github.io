@@ -6,12 +6,7 @@
 }
 
 
-.scrollingDiv {
-            width: 300px;
-            height: 150px;
-            overflow: scroll;
-            border: 1px solid #ccc;
-            padding: 10px;
+
             
         }
 .scrollingDiv{   
@@ -98,6 +93,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
