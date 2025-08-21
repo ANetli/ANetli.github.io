@@ -23,8 +23,8 @@
 .scrollingDiv{
     height:120px;
     overflow:scroll;
-    overflow-x:hidden;
-}
+  /  overflow-x:hidden; *(/
+ }
 
 
 
