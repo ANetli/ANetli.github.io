@@ -49,8 +49,8 @@ body {
     background-color: #E6E6FA;
     color: #333;
     line-height: 1.6;
-     weight:80px;
-     height:80px;
+     weight:180px;
+     height:180px;
 }
 
 header {
@@ -58,7 +58,7 @@ header {
     color: white;
     text-align: center;
     padding: 2rem 0;
-     weight:80px;
+     weight:280px;
      height:250px;
 }
 
@@ -109,6 +109,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
