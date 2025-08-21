@@ -59,7 +59,7 @@ header {
     text-align: center;
     padding: 2rem 0;
      weight:80px;
-     height:80px;
+     height:250px;
 }
 
 header h1 {
@@ -109,6 +109,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
 
 
 
