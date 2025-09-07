@@ -1,7 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-}
+
 
 .header{
 min-height: 100vh;
@@ -24,6 +21,7 @@ min-height: 100vh;
 background-image: linear-gradient(rgba(4,9,30,0.7)), url("../images/BBB.png"); 
 
 */
+
 
 
 
