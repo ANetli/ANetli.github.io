@@ -1,6 +1,6 @@
 .header{
-min-height: 100vh;
-    width: 100%;
+min-height: 50vh;
+    width: 50%;
     background-image: linear-gradient(rgba(4,9,30,0.7)), url("../images/PALM.jpg"); 
 
 
@@ -27,6 +27,7 @@ min-height: 100vh;
 }
 
 */
+
 
 
 
