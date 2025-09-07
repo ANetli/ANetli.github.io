@@ -9,7 +9,8 @@ min-height: 100vh;
 
     background-position: center;
     background-size: cover;
-    position: relative;
+        position: center;
+
     
 }
 
@@ -18,9 +19,12 @@ min-height: 100vh;
 * {
     margin: 0;
     padding: 0;
+    position: relative;
+
 }
 
 */
+
 
 
 
