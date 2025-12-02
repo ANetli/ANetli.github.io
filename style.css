@@ -15,7 +15,7 @@
 .header{
 min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.5)), url("../images/Simple.jpg"); 
+    background-image: linear-gradient(rgba(4,9,30,0.3)), url("../images/Simple.jpg"); 
 
 
     background-position: center;
@@ -96,6 +96,7 @@ font-size: 62px;
     font-size: 14px;
     color: #fff;
 }
+
 
 
 
