@@ -111,6 +111,20 @@ font-size: 62px;
 }
 
 
+.hero-btn{
+border: 1px solid #f44336;
+background: #f44336;
+transition: 1s;
+}
+
+@media(max-width: 700px){
+
+.text-box h1{
+font-size:20px;
+}
+}
+
+
 
 
 
