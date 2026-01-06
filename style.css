@@ -97,6 +97,19 @@ font-size: 62px;
     color: #fff;
 }
 
+.hero.btn{
+    display:inline-block;
+    test-decoration: none;
+    color: #fff;
+    border: 1px solid #fff;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    
+
+}
+
 
 
 
